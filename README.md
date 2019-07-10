@@ -1,5 +1,5 @@
 # TAWDiscord
-[Please report your issues here and also read the wiki to learn things.](https://github.com/TheCyberCode/TAWDiscord/issues)
+Please report your issues under the [issues tab](https://github.com/TheCyberCode/TAWDiscord/issues) and also read the wiki to learn things.
 
 
 [Click Here To Go To The Discord Section On TheAspieWorld.com](https://www.theaspieworld.com/discord)
