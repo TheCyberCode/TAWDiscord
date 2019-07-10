@@ -5,7 +5,7 @@ Please report your issues here and also read the wiki to learn things.
 
 
 # Information Page
-https://github.com/TheCyberCode/TAWDiscord/wiki
+[View our wiki page for more information](https://github.com/TheCyberCode/TAWDiscord/wiki)
 
 
 # TAW Custom Bot(s) User Commands
