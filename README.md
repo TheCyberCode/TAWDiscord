@@ -18,7 +18,7 @@ TAW respects your privacy. If you wishing to discuss sensitive information with 
 [View our wiki page for more information](https://github.com/TheCyberCode/TAWDiscord/wiki)
 
 
-# TAW Custom Bot(s) User Commands
+# TAW Custom Bot(s) User Standard Commands
 ![](https://i.imgur.com/XM1ALDk.jpg)
 
 * `-verify`> This is the command which asks for your age via the discord bot when you first join.
