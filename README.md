@@ -40,3 +40,15 @@ TAW respects your privacy. If you wishing to discuss sensitive information with 
 * `-remove` > This will remove a user from the ticket if you have permissions to do so.
 
 * `-lastseen` > This will tell you when a user last send a message [This will not work if the bot has restarted since said time]
+
+# How do I use the music bot?
+A commands list is avaliable [here](https://rythmbot.co/commands#list)
+Just remember music needs to be appropriate for the user(s) within the voice channel the bot is playing music in.
+
+# How do I rise-up in the xp leveling system?
+##How it works.
+Every minute that you're messaging you randomly gain 15-25 XP.
+To avoid spamming, it's limited to once a minute.
+In the server you type !rank to see your rank and level.
+
+Click [here](https://mee6.xyz/leaderboard/466239080360050718) to view The Aspie World Discord Server's Leaderboard.
