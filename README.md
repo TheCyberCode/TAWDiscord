@@ -46,7 +46,7 @@ A commands list is avaliable [here](https://rythmbot.co/commands#list)
 Just remember music needs to be appropriate for the user(s) within the voice channel the bot is playing music in.
 
 # How do I rise-up in the xp leveling system?
-##How it works.
+## How it works.
 Every minute that you're messaging you randomly gain 15-25 XP.
 To avoid spamming, it's limited to once a minute.
 In the server you type !rank to see your rank and level.
