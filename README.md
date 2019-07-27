@@ -17,6 +17,12 @@ TAW respects your privacy. If you wishing to discuss sensitive information with 
 
 [View our wiki page for more information](https://github.com/TheCyberCode/TAWDiscord/wiki)
 
+# TAW Discord Bot 
+## Developer
+TheCyberCode
+## Bot Version
+![GitHub package.json version](https://img.shields.io/github/package-json/v/TheCyberCode/TAWDiscord?color=7289DA&label=Bot%20Version&style=plastic)
+
 
 # TAW Custom Bot(s) User Standard Commands
 ![](https://i.imgur.com/XM1ALDk.jpg)
