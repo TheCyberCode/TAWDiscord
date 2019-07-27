@@ -35,6 +35,8 @@ TheCyberCode
 
 * `-taco` > This allows users to give each other a 'taco'.
 
+* `-bagel` > This allows users to give each other a 'bagel'.
+
 * `-ping` > This tells you the bot's ping.
 
 * `-intro` > This command allows you to generate a nice looking intro by the bot private messaging you questions for you to answer. Once all questions are completed it will send your intro in the [#introductions](https://discordapp.com/channels/466239080360050718/468518379825790996) channel.
@@ -46,6 +48,8 @@ TheCyberCode
 * `-remove` > This will remove a user from the ticket if you have permissions to do so.
 
 * `-lastseen` > This will tell you when a user last send a message [This will not work if the bot has restarted since said time]
+
+* `-topic` > This will generate a random topic, only staff can do this command.
 
 # How do I use the music bot?
 A commands list is avaliable [here](https://rythmbot.co/commands#list)
