@@ -1,0 +1,10 @@
+{
+  "name": "TAWBots",
+  "version": "3.0.3",
+  "description": "This bot is made by TheCyberCode",
+  "repository": {
+  "type": "git",
+   "url": "https://github.com/TheCyberCode/TheAspieWorldBot.git"
+    },
+  "author": "TheCyberCode"
+}
